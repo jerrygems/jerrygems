@@ -99,13 +99,12 @@
  
 
 <br />
-<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
+<h3 align="left">Connect with me: 
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
 <p align="left">
  <br/>
  
-<a href="https://codepen.io/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://dev.to/jerrygems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerrygems" height="30" width="40" /></a>
 <a href="https://twitter.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerrygems" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerrygems" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jerrygems" height="30" width="40" /></a>
