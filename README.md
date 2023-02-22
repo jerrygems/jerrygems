@@ -41,10 +41,10 @@
 </span><span align="center">
 <br />
 
- 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
-<br />
+ 🔭 I'm a CTF player || AI/ML enthusiast || Programmer || Developer
  <br />
- 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
+ <br />
+ 🌱 I’m currently learning Machine Learning, Data Science, Penetration Testing 
  
  <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
 <br/><br/>
@@ -53,19 +53,10 @@
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
  
-<img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
- 🔭 I’m currently working on [MeanOS](https://github.com/jerrygems/MeanOs)
+ 🔭 I’m currently working on [spyshell](https://github.com/jerrygems/spyshell)
 
  👨‍💻 All of my projects are available at [https://github.com/jerrygems](https://github.com/jerrygems)
- 
-<img align="left" width="40px" src="./assets/img/pablo-30.gif" />
-
- 📝 I regularly write articles on [https://www.medium.com/jerrygems](https://www.medium.com/jerrygems)
- 
-<img align="left" width="25px" src="./assets/img/pablo-40.gif" />
- 
- <img align="right" width="130px" src="./assets/img/pablo-21.gif" />
 
  💬 Ask me about **anything**
 
@@ -73,14 +64,11 @@
 
  📄 Know about my experiences [https://www.linkedin.com/in/shubham-jangid-34b2b1186](https://www.linkedin.com/in/shubham-jangid-34b2b1186)
 
- ⚡ Fun fact **I am a funny guy and love making music**
 
 <br/>
-<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
+<h3>“Control can sometimes be an illusion. But sometimes you need illusion to gain control.” ― Mr. Robot</h3>
 <br/>
- 
-<img align="left" width="25px" src="./assets/img/pablo-29.gif" />
- 
+  
 </span><span align="center">
  
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jerrygems&show_icons=true&locale=en" alt="jerrygems" />
@@ -121,7 +109,6 @@
   </a>
 </p>
   <br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
 <h3 align="left">Support:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerrygems" alt="jerrygems" /></a>
