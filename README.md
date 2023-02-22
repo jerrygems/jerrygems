@@ -113,14 +113,8 @@
 
   
 </p>
- 
-<br/>
- <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
+ <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <br/>
-<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- <br/><br/>
-
- <br/><br/><br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,bash,bootstrap,c,cpp,php,js,html,css,mysql,react" />
