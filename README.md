@@ -108,7 +108,7 @@
 <a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sp1d3y" height="30" width="40" /></a>
 <a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="perry001l" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="shubham.in.null_v01d" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/Sp1d3y" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Sp1d3y" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="Sp1d3y" height="30" width="40" /></a>
   
 </p>
  
