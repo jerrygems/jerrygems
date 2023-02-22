@@ -37,7 +37,7 @@
 </span>
 <span align="center">
 <br />
-<a href="https://twitter.com/Shubham_lnx" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham_lnx?logo=twitter&style=for-the-badge" alt="jerrygems" /></a>
+<a href="[https://twitter.com/Shubham_lnx](https://twitter.com/Shubham_lnx)" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham_lnx?logo=twitter&style=for-the-badge" alt="jerrygems" /></a>
  <br />
 </span><span align="center">
 <br />
