@@ -101,31 +101,15 @@
 <h3 align="left">Connect with me: 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
-<p align="left">
- <br/>
- 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Shubham_lnx.svg?style=social&label=Follow%20%40Shubham_lnx)](https://twitter.com/Shubham_lnx)
- 
-<a href="https://linkedin.com/in/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jerrygems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://kaggle.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://fb.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://instagram.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://dribbble.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://www.behance.net/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://medium.com/@jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jerrygems" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jerrygems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jerrygems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/jerrygems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="https://discord.gg/jerrygems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jerrygems" height="30" width="40" /></a>
-<a href="/https://www.jerrygems.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@jerrygems" height="30" width="40" /></a>
+<br>
+ <p align="left">
+<a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_lnx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
+<a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sp1d3y" height="30" width="40" /></a>
+<a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="perry001l" height="30" width="40" /></a>
+<a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
 </p>
+ 
 <br/>
  <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
  <br/>
