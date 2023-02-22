@@ -20,9 +20,6 @@
                                   ░ ░     
 </pre>
 
-<img width="150px" src="./assets/img/pablo-26.gif" />
-<img align="left" width="40px" src="./assets/img/pablo-33.gif" />
-<img align="right" width="80px" src="./assets/img/pablo-42.gif" />
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerrygems&theme=dracula)
 
