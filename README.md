@@ -104,10 +104,10 @@
 <br>
  <p align="left">
 <a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="shubham_lnx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
-<a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sp1d3y" height="30" width="40" /></a>
-<a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="perry001l" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
+<a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sp1d3y" height="30" width="40" /></a>
+<a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="perry001l" height="30" width="40" /></a>
+<a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="shubham.in.null_v01d" height="30" width="40" /></a>
 </p>
  
 <br/>
