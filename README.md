@@ -103,7 +103,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
 <br>
  <p align="left">
-<a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_lnx" height="30" width="40" /></a>
+<a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="shubham_lnx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
 <a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sp1d3y" height="30" width="40" /></a>
 <a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="perry001l" height="30" width="40" /></a>
