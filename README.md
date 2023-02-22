@@ -121,17 +121,11 @@
  <br/><br/>
 
  <br/><br/><br/>
- <table  align="center" width="100%">
-    <tr>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,bootstrap,c,cpp,php,js,html,css,mysql,react" />
+  </a>
+</p>
   <br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
