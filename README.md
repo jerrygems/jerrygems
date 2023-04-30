@@ -80,7 +80,7 @@
  
 
 <br />
-<h3 align="left">Connect with me: 
+<h3 align="left">Social Links: 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
 <br>
@@ -95,7 +95,7 @@
 
   
 </p>
- <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ <h2 align="left"> Skills: <br> <script src="https://tryhackme.com/badge/875597"></script> <br> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <br/>
 <p align="center">
   <a href="https://skillicons.dev">
