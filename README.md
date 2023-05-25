@@ -60,7 +60,7 @@
 
 
 <br/>
-<h3>“Control can sometimes be an illusion. But sometimes you need illusion to gain control.” ― Mr. Robot</h3>
+<h2>“Control can sometimes be an illusion.<br/> But sometimes you need illusion to gain control.” ― Mr. Robot</h2>
 <br/>
   
 </span><span align="center">
