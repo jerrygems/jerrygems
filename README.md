@@ -97,7 +97,7 @@
 </p>
  <h2 align="left"> Skills: <br> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <br/>
-     <p style="text-align:center;"><img style="display: block; margin: 0 auto;" src="[https://tryhackme-badges.s3.amazonaws.com/Sp1d3y.png](https://tryhackme-badges.s3.amazonaws.com/Sp1d3y.png)" alt="TryHackMe"></p>
+     <p style="text-align:center;"><img style="display: block; margin: 0 auto;" src="https://tryhackme-badges.s3.amazonaws.com/Sp1d3y.png" alt="TryHackMe"></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,bash,bootstrap,c,cpp,php,js,html,css,mysql,react,nodejs,mongodb" />
