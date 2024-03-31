@@ -28,15 +28,21 @@
 <br />
 
  🔭 I'm a CTF player || AI/ML enthusiast || Programmer || Developer
+ <br />
  🌱 I’m currently learning Machine Learning, Data Science, Penetration Testing 
+ <br />
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
+ <br />
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
+ <br />
  🔭 I’m currently working on [awesome_rice_v2](https://github.com/jerrygems/awesome_rice_v2)
-
+<br />
  👨‍💻 All of my projects are available at [https://github.com/jerrygems](https://github.com/jerrygems)
-
+<br />
  💬 Ask me about **anything**
+ <br />
  📫 How to reach me [discord](https://discord.gg/RQnYVyvaKJ)
+ <br />
  📄 Know about my experiences [https://www.linkedin.com/in/shubham-jangid-34b2b1186](https://www.linkedin.com/in/shubham-jangid-34b2b1186)
 
 
