@@ -63,9 +63,9 @@
   <a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sp1d3y" height="30" width="40" /></a>
   <a href="https://tryhackme.com/p/Sp1d3y" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="Sp1d3y" height="30" width="40" /></a>
   <a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="shubham_lnx" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-tile.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
-  <a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-tile.svg" alt="perry001l" height="30" width="40" /></a>
-  <a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
+  <a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="perry001l" height="30" width="40" /></a>
+  <a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
 
   
 </p>
