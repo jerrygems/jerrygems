@@ -17,11 +17,6 @@
                ╚════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 </pre>
 
- 
-
-<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<img align="left" width="100px" src="./assets/img/pablo-4.gif" />
-<img align="right" width="150px" src="./assets/img/pablo-16.gif" />
 <br />
 </span>
 <span align="center">
