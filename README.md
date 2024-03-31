@@ -58,18 +58,8 @@
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
     <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
     <br>
-    <p align="left">
 
-  <a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sp1d3y" height="30" width="40" /></a>
-  <a href="https://tryhackme.com/p/Sp1d3y" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="Sp1d3y" height="30" width="40" /></a>
-  <a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="shubham_lnx" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
-  <a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="perry001l" height="30" width="40" /></a>
-  <a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
-
-  
-</p>
-    <h2 align="left"> Skills: <br> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="left"> Skills: <br> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
    <br/>
   <p style="text-align:center;"><img style="display: block; margin: 0 auto;" src="https://tryhackme-badges.s3.amazonaws.com/Sp1d3y.png" alt="TryHackMe"></p>
 <p align="center">
@@ -83,6 +73,16 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerrygems" alt="jerrygems" /></a>
 
 <span align="center">
- 
+     <p align="left">
+
+  <a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sp1d3y" height="30" width="40" /></a>
+  <a href="https://tryhackme.com/p/Sp1d3y" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="Sp1d3y" height="30" width="40" /></a>
+  <a href="https://twitter.com/shubham_lnx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="shubham_lnx" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shubham-jangid-34b2b1186" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="shubham-jangid-34b2b1186" height="30" width="40" /></a>
+  <a href="https://fb.com/perry001l" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="perry001l" height="30" width="40" /></a>
+  <a href="https://instagram.com/shubham.in.null_v01d" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="shubham.in.null_v01d" height="30" width="40" /></a>
+
+  
+</p>
 </span>
  
