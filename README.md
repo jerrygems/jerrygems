@@ -54,10 +54,7 @@
 <br/>
 
 <span align="center">
-    <h3 align="left">Social Links: 
-    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
-    <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
-    <br>
+    
 
 <h2 align="left"> Skills: <br> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
    <br/>
@@ -73,6 +70,10 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerrygems" alt="jerrygems" /></a>
 
 <span align="center">
+  <h3 align="left">Social Links: 
+    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
+    <img align="right" src="https://komarev.com/ghpvc/?username=jerrygems&label=Profile%20views&color=0e75b6&style=flat" alt="jerrygems" />
+    <br>
      <p align="left">
 
   <a href="https://kaggle.com/sp1d3y" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sp1d3y" height="30" width="40" /></a>
