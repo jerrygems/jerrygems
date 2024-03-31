@@ -18,9 +18,7 @@
 </pre>
 
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerrygems&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerrygems&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerrygems&theme=dracula)
+<img src="https://raw.githubusercontent.com/allureowo/allureowo/output/snake.svg" alt="Snake animation" />
  <br /><br/>
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <img align="left" width="100px" src="./assets/img/pablo-4.gif" />
