@@ -43,7 +43,7 @@
  <br />
  📫 How to reach me [discord](https://discord.gg/RQnYVyvaKJ)
  <br />
- 📄 Know about my experiences [https://www.linkedin.com/in/shubham-jangid-34b2b1186](https://www.linkedin.com/in/shubham-jangid-34b2b1186)
+ 📄 Know about my experiences [https://www.linkedin.com/in/jerrygems](https://www.linkedin.com/in/jerrygems)
 
 
 <br/>
