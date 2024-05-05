@@ -66,7 +66,7 @@
   <p style="text-align:center;"><img style="display: block; margin: 0 auto;" src="https://tryhackme-badges.s3.amazonaws.com/Sp1d3y.png" alt="TryHackMe"></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,nix,ubuntu,docker,jenkins,matlab,sklearn,kubernetes,git,neovim,gtk,bash,pytorch,react,lua,py,c,cpp,php,js,html,nodejs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,nix,ubuntu,kali,neovim,docker,ansible,terraform,jenkins,kubernetes,git,github,gtk,bash,numpy,pandas,matlab,seaborn,sklearn,pytorch,react,lua,py,c,cpp,php,express,nodejs,mysql,mongodb" />
   </a>
 </p>
   <br/>
